@@ -1,3 +1,0 @@
-
-Automated Meter Reader (AMR) -->   https://water.arlingtonva.us/customer-service/water-meters/
-Used to read the Water Meter placed in some in-accessible place. Not smart as ours. !
